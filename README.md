@@ -11,6 +11,9 @@ Following are used for analysing data
 3) Probability
 4) Distribution- normal , binomial or other Distribution types mentioned
 5) Hypothesis testing 
+  - Chi-square
+  - 2 sample t test
+  - Anova
 6) Confidence interval
 7) Central limit Theorem
 
